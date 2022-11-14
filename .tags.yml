@@ -1,6 +1,5 @@
-0.1.0:
+- tag: 0.1.0
   commit: "Set version to 0.1.0"
-  message: Get started with this tag.
-0.2.0:
+- tag: 0.2.0
   commit: "Bump minor version"
   message: Add dynamic indexing.
