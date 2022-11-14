@@ -3,3 +3,5 @@
 - tag: 0.2.0
   commit: "Bump minor version"
   message: Add dynamic indexing.
+- tag: 1.0
+  commit: "Message with an ' in it."
